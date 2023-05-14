@@ -28,3 +28,6 @@ Home Page
 <img width="750" alt="Screenshot 2023-05-14 at 8 04 48 PM" src="https://github.com/omveersingh9821/terribly-assignment/assets/88961233/a7ff1a44-e354-484a-9db0-6dcfedbb807c">
 
 <img width="1416" alt="Screenshot 2023-05-14 at 8 05 28 PM" src="https://github.com/omveersingh9821/terribly-assignment/assets/88961233/04cfd78d-1fc3-4862-abf5-fa6e0440b53e">
+
+## Host Link
+Host Link:- https://zingy-stardust-1d78d2.netlify.app/
