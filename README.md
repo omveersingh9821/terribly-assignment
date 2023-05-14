@@ -1,5 +1,5 @@
 ## Getting Started
-Step 1:- create next.js app   -> "npx create-next-app terribly-tales" after that "cd terribly-tales" then "npm run dev"
+Step 1:- create react.js app   -> "npx create-react-app terribly-tales" after that "cd terribly-tales" then "npm start"
 
 Step 2:- install axios for making HTTP requests  -> "npm install axios"
 Step 3:- install chart.js and react-chartjs-2 package which is very helpul to create dynamic chart in minimal effort and time  -> "npm install react-chartjs-2 chart.js"
@@ -24,3 +24,7 @@ Then display chart.
 
 
 ## Screenshots
+Home Page 
+<img width="750" alt="Screenshot 2023-05-14 at 8 04 48 PM" src="https://github.com/omveersingh9821/terribly-assignment/assets/88961233/a7ff1a44-e354-484a-9db0-6dcfedbb807c">
+
+<img width="1416" alt="Screenshot 2023-05-14 at 8 05 28 PM" src="https://github.com/omveersingh9821/terribly-assignment/assets/88961233/04cfd78d-1fc3-4862-abf5-fa6e0440b53e">
